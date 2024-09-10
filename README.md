@@ -4,7 +4,7 @@
 
 ### Para demonstrar alguns dos projetos em que trabalhei, criei uma página simples usando HTML e CSS. Esta página serve como um portfólio básico, exibindo detalhes e exemplos dos projetos que desenvolvi ao longo da minha carreira. Através dessa apresentação, é possível visualizar as minhas habilidades e o tipo de trabalho que realizo, proporcionando uma visão clara das minhas competências e experiência prática.
 
-[![Meu Projeto](assets/img/projetosPage.png)](https://vercel.com/washington-lemos-projects/my-side-processo-seletivo)
+[![Meu Projeto](assets/img/projetosPage.png)](https://my-side-processo-seletivo.vercel.app/)
 
 ## Projeto 1 → Cadastro de Fornecedor/Produto
 
